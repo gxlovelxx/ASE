@@ -1,0 +1,5 @@
+mcast_group_ip=238.1.0.100
+mcast_group_port=50001
+dst_ip=192.168.0.131
+dst_port1=9999
+dst_port2=9998
